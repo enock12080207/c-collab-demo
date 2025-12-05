@@ -1,0 +1,8 @@
+# C/C++ compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# VS Code settings (這通常不建議上傳，除非是統一設定)
+.vscode/
